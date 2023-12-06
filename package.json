@@ -1,0 +1,32 @@
+{
+  "name": "backtop-find-dom-node-warning",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "author": {
+    "email": "JeremyJiang430@outlook.com",
+    "name": "Jeremy-Hibiki"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jeremy-Hibiki/backtop-find-dom-node-warning"
+  },
+  "scripts": {
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx ."
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.3",
+    "@typescript-eslint/eslint-plugin": "^6.13.2",
+    "@typescript-eslint/parser": "^6.13.2",
+    "eslint": "^8.55.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^3.1.0",
+    "prettier-plugin-organize-imports": "^3.2.4",
+    "typescript": "^5.3.2"
+  }
+}
